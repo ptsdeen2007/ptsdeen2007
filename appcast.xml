@@ -6,7 +6,7 @@
             <title>Version 1.18.0</title>
             <description>This is my description</description>
             <pubDate>Sun, 31 Dec 2010 20:00:00 +0000</pubDate>
-          <enclosure url="https://play.google.com/store/apps/details?id=com.oncods.oncodsramzan.kleemz" sparkle:version="1.18" sparkle:os="android" />
+          <enclosure url="https://play.google.com/store/apps/details?id=com.oncods.oncodsramzan.kleemz" sparkle:version="1.17" sparkle:os="android" />
       </item>
     </channel>
 </rss>
